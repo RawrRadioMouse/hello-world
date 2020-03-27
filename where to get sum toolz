@@ -3,3 +3,4 @@ STEGO guide https://pequalsnp-team.github.io/cheatsheet/steganography-101
 UNOBFUSCATE php code https://www.unphp.net/
 Online TTF tool (stego) http://bigwww.epfl.ch/demo/ip/demos/FFT/
 Online Diagram tool https://app.diagrams.net
+Extract TEXT from PDF https://pypi.org/project/pdfminer/
